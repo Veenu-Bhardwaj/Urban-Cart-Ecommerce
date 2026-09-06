@@ -8,8 +8,8 @@
 
 **Urban Cart** is a fully functional e-commerce web application built as the final capstone project for the Web Development Internship at **ApexPlanet Software Pvt. Ltd.** It brings together everything from the earlier tasks — responsive layouts, DOM manipulation, form validation, and localStorage — into one complete, production-style shopping experience: browse, search, filter, add to cart, and check out, all with vanilla HTML, CSS, and JavaScript.
 
-**🔗 Live Demo:** [View Urban Cart](YOUR_LIVE_DEMO_LINK)
-**🎥 Video Walkthrough:** [Watch on LinkedIn](YOUR_LINKEDIN_POST_LINK)
+**🔗 Live Demo:** [View Urban Cart](https://veenu-bhardwaj.github.io/Urban-Cart-Ecommerce/)
+**🎥 Video Walkthrough:** [Watch on LinkedIn](https://lnkd.in/p/dhZhRiAp)
 
 ---
 
