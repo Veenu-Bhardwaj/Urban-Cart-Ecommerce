@@ -54,14 +54,6 @@
 
 ---
 
-## 🎥 Video Demonstration & Presentation
-
-A complete live walkthrough, feature breakdown, and screen recording of this project can be viewed on my professional LinkedIn post:
-
-👉 [Watch the LinkedIn Video Walkthrough & Post Here](YOUR_LINKEDIN_POST_LINK)
-
----
-
 ## 📫 Connect With Me
 
 - **Intern Name:** Veenu Bhardwaj
